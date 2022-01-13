@@ -1,0 +1,36 @@
+_repo: Mildred-s-Married-Life-and-a-Winter-with-Elsie-Dinsmore-A-sequel-to-Mildred-and-Elsie_67058
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Finley, Martha
+    aliases:
+    - Cousin Martha
+    - Farquharson, Martha
+    birthdate: 1828
+    deathdate: 1909
+    gutenberg_agent_id: '2044'
+    url: http://www.gutenberg.org/2009/agents/2044
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Martha_Finley
+    - http://www.readseries.com/auth-dm/finley1.html
+description: ''
+gutenberg_issued: '2021-12-31'
+identifiers:
+  gutenberg: '67058'
+language: en
+pgterms:marc904: https://archive.org/details/mildredsmarriedl00finliala
+pgterms:marc905: 20201011024423finley
+pgterms:marc906: '1882'
+pgterms:marc907: US
+production_note: Carol Brown, MWS and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: United States :Dodd, Mead & Company,1882.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Mildred''s Married Life, and a Winter with Elsie Dinsmore: A sequel to Mildred
+  and Elsie'
+url: http://www.gutenberg.org/ebooks/67058
