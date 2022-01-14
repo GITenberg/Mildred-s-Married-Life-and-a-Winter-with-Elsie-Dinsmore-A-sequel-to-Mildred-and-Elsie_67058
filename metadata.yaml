@@ -1,5 +1,8 @@
 _repo: Mildred-s-Married-Life-and-a-Winter-with-Elsie-Dinsmore-A-sequel-to-Mildred-and-Elsie_67058
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67058-h/images/cover.jpg
 creator:
   author:
     agent_name: Finley, Martha
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Martha_Finley
     - http://www.readseries.com/auth-dm/finley1.html
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67058#Mildred-s-Married-Life-and-a-Winter-with-Elsie-Dinsmore-A-sequel-to-Mildred-and-Elsie
 gutenberg_issued: '2021-12-31'
 identifiers:
   gutenberg: '67058'
